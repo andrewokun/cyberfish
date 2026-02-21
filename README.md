@@ -1,2 +1,3 @@
-# cyberfish
-My Discord Bot CyberFish
+# CyberFish
+CyberFish: A Entertaining Discord Bot
+
