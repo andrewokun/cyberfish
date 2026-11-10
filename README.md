@@ -32,7 +32,7 @@ CyberFish is a Discord bot built for fun. Add it to your server to bring a bit o
 ```bash
 git clone https://github.com/andrewokun/cyberfish.git
 cd cyberfish
-pip install -r requirements.txt
+pip install -r setup/requirements.txt
 ```
 
 Setup files and extra instructions are in the [`setup/`](setup) folder.
